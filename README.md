@@ -35,6 +35,10 @@
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338Bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Melhor Envio](https://img.shields.io/badge/Melhor_Envio-00D47E?style=for-the-badge&logo=express&logoColor=white)](https://melhorenvio.com.br/)
 
 ---
 
@@ -45,6 +49,9 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+[![NF-e](https://img.shields.io/badge/NF--e-0052CC?style=for-the-badge&logo=files&logoColor=white)](#)
+[![Fiscal System](https://img.shields.io/badge/Emissor_Fiscal-2B3137?style=for-the-badge&logo=receipt&logoColor=white)](#)
+[![Fiscal API](https://img.shields.io/badge/Fiscal_API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)](#)
 
 <br/>
 
