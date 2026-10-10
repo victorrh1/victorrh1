@@ -52,4 +52,12 @@
   <img src="https://komarev.com/ghpvc/?username=victorrh1&color=1b9394&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+<!-- Gráfico da Cobrinha Animada -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorrh1/victorrh1/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/victorrh1/victorrh1/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+  </picture>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
